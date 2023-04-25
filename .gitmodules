@@ -1,3 +1,4 @@
 [submodule "submodule-folder"]
 	path = submodule-folder
 	url = git@github.com:pauloszz/submodule-repo-A.git
+	branch = main
